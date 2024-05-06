@@ -5,6 +5,6 @@
 
 @mixin ff-fs-color($f-family, $f-size, $f-color){
     font-family: $f-family;
-    font-family: $f-size;
+    font-size: $f-size;
     color: $f-color;
 }
